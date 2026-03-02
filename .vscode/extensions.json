@@ -1,0 +1,23 @@
+{
+    "recommendations": [
+        "figma.figma-vscode-extension",
+        "bierner.emojisense",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "ms-azuretools.vscode-azurestaticwebapps",
+        "aaron-bond.better-comments",
+        "dzhavat.bracket-pair-toggler",
+        "svipas.code-autocomplete",
+        "sporiley.css-auto-prefix",
+        "editorconfig.editorconfig",
+        "adrianwilczynski.format-selection-as-html",
+        "sidthesloth.html5-boilerplate",
+        "ecmel.vscode-html-css",
+        "zignd.html-css-class-completion",
+        "ritwickdey.liveserver",
+        "johnpapa.vscode-peacock",
+        "wenfangdu.snippet-generator",
+        "vunguyentuan.vscode-css-variables",
+        "visualstudioexptteam.vscodeintellicode"
+    ]
+}

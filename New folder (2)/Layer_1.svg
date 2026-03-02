@@ -1,0 +1,48 @@
+<svg width="61" height="53" viewBox="0 0 61 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="61" height="53" fill="#D6D6D6"/>
+<g id="Home">
+<path d="M-2337 -2174C-2337 -2273.41 -2256.41 -2354 -2157 -2354H24787C24886.4 -2354 24967 -2273.41 24967 -2174V3768C24967 3867.41 24886.4 3948 24787 3948H-2157C-2256.41 3948 -2337 3867.41 -2337 3768V-2174Z" fill="#DFDFDF"/>
+<g id="About us " clip-path="url(#clip0_626_7414)">
+<rect width="1440" height="4666" transform="translate(-370 -2029)" fill="#FEFEFE"/>
+<g id="Frame 1000005285">
+<line id="Line 349" x1="41.9285" y1="-1372" x2="41.9287" y2="2221" stroke="#F0F0F0" stroke-dasharray="42 42"/>
+</g>
+<g id="Frame 1000005363">
+<g id="Frame 1000005362">
+<g id="Frame 1000005280">
+<rect width="1440" height="537" transform="translate(-370 -150)" fill="#F2F6F9"/>
+</g>
+<g id="Frame 1000005292">
+<g id="Frame 1000005320">
+<g id="Frame 1000005281">
+<rect width="410.667" height="377.49" transform="translate(-290 -60)" fill="white"/>
+<g id="Frame 1000005324">
+<rect width="83.72" height="76.49" transform="translate(-11.0533 -12)" fill="#F2F6F9"/>
+<g id="Layer_1" clip-path="url(#clip1_626_7414)">
+<path id="Vector" d="M0.946655 14.97L5.36666 41.16L42.2367 30.55L41.8167 13.53L0.946655 14.97Z" fill="#FF5100"/>
+<path id="Vector_2" d="M57.9567 7.72002V49.79H16.5467V7.72002H57.9667M60.6667 5.02002H13.8367V52.49H60.6567V5.02002H60.6667Z" fill="#222A54"/>
+<g id="Group">
+<path id="Vector_3" d="M23.5967 19.03H50.9067" stroke="#222A54" stroke-width="2" stroke-miterlimit="10"/>
+<path id="Vector_4" d="M23.5967 28.76H50.9067" stroke="#222A54" stroke-width="2" stroke-miterlimit="10"/>
+<path id="Vector_5" d="M23.5967 38.48H50.9067" stroke="#222A54" stroke-width="2" stroke-miterlimit="10"/>
+</g>
+<path id="Vector_6" d="M44.3167 5C43.3267 2.1 40.5767 0 37.3367 0C34.0967 0 31.3467 2.09 30.3567 5V8.36H44.3267V5H44.3167Z" fill="#222A54"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<path d="M-2157 -2353H24787V-2355H-2157V-2353ZM24966 -2174V3768H24968V-2174H24966ZM24787 3947H-2157V3949H24787V3947ZM-2336 3768V-2174H-2338V3768H-2336ZM-2157 3947C-2255.86 3947 -2336 3866.86 -2336 3768H-2338C-2338 3867.96 -2256.96 3949 -2157 3949V3947ZM24966 3768C24966 3866.86 24885.9 3947 24787 3947V3949C24887 3949 24968 3867.96 24968 3768H24966ZM24787 -2353C24885.9 -2353 24966 -2272.86 24966 -2174H24968C24968 -2273.96 24887 -2355 24787 -2355V-2353ZM-2157 -2355C-2256.96 -2355 -2338 -2273.96 -2338 -2174H-2336C-2336 -2272.86 -2255.86 -2353 -2157 -2353V-2355Z" fill="black" fill-opacity="0.1"/>
+</g>
+<defs>
+<clipPath id="clip0_626_7414">
+<rect width="1440" height="4666" fill="white" transform="translate(-370 -2029)"/>
+</clipPath>
+<clipPath id="clip1_626_7414">
+<rect width="59.72" height="52.49" fill="white" transform="translate(0.946655)"/>
+</clipPath>
+</defs>
+</svg>

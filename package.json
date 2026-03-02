@@ -6,8 +6,8 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "predeploy": "echo \"No build step defined\"",
-        "deploy": "gh-pages -d ."
+        "optimize": "node build-tools/optimize.js",
+        "deploy": "npm run optimize && gh-pages -d dist"
     },
     "author": "",
     "license": "ISC",
@@ -16,6 +16,14 @@
         "swiper": "^10.2.0"
     },
     "devDependencies": {
-        "gh-pages": "^5.0.0"
+        "clean-css-cli": "^5.6.3",
+        "copyfiles": "^2.4.1",
+        "gh-pages": "^5.0.0",
+        "html-minifier-terser": "^7.2.0",
+        "imagemin": "^9.0.1",
+        "imagemin-gifsicle": "^7.0.0",
+        "imagemin-mozjpeg": "^10.0.0",
+        "imagemin-pngquant": "^10.0.0",
+        "terser": "^5.46.0"
     }
 }
